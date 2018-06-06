@@ -1,0 +1,25 @@
+#holder {
+	margin: auto;
+	width: 300px;
+	border: 1px solid black;
+}
+
+#holder h3 {
+	padding: 10px;
+	text-align: center;
+}
+
+#holder input {
+	margin: 10px;
+}
+
+#holder output {
+	text-align: center;
+}
+
+.outputTxt {
+	text-align: center;
+	text-decoration: underline;
+	color: red;
+	margin: 10px;
+}
